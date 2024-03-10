@@ -1,5 +1,5 @@
-# Uso de GitHub en la práctica docente
-## Práctica 3.2
-Repositorio de prácticas para la sesión 3 del curso
+# Uso de GitHub
+## Práctica 3
+Repositorio para la práctica 3
 
 Incluye a continuación tu nombre y apellidos:
